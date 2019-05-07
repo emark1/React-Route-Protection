@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "tvslfswd",
+    "password": "BlBmzYYry8CLAdFd7bOmJoxnXhZ5X_BV",
+    "database": "tvslfswd",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "tvslfswd",
+    "password": "BlBmzYYry8CLAdFd7bOmJoxnXhZ5X_BV",
+    "database": "tvslfswd",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "tvslfswd",
+    "password": "BlBmzYYry8CLAdFd7bOmJoxnXhZ5X_BV",
+    "database": "tvslfswd",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
